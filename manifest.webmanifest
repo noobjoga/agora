@@ -1,0 +1,18 @@
+{
+  "name": "AGORA — descubra algo novo",
+  "short_name": "AGORA",
+  "description": "Uma rede social para conversar, descobrir e aprender por curiosidade.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f1f6fa",
+  "theme_color": "#102a43",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
