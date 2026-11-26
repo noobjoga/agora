@@ -1,12 +1,13 @@
 {
-  "name": "AGORA — descubra algo novo",
+  "name": "AGORA — descubra, explore e aprenda",
   "short_name": "AGORA",
-  "description": "Uma rede social para conversar, descobrir e aprender por curiosidade.",
+  "description": "Um aplicativo para descobrir, explorar, ler e aprender jogando.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "background_color": "#f1f6fa",
   "theme_color": "#102a43",
+  "categories": ["education", "books", "games"],
   "icons": [
     {
       "src": "/icon.svg",
